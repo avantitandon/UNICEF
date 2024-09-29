@@ -1,10 +1,5 @@
 ---
-title: "STA130 - Final Project"
 author: "Avanti Tandon, Dhairya Thakkar, Leslie Liu, Nasywa Talitha"
-output:
-  pdf_document: default
-  html_document: default
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
